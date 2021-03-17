@@ -1,0 +1,13 @@
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\bin\Debug\netcoreapp3.1\ExercicioUdemy.exe
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\bin\Debug\netcoreapp3.1\ExercicioUdemy.deps.json
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\bin\Debug\netcoreapp3.1\ExercicioUdemy.runtimeconfig.json
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\bin\Debug\netcoreapp3.1\ExercicioUdemy.runtimeconfig.dev.json
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\bin\Debug\netcoreapp3.1\ExercicioUdemy.dll
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\bin\Debug\netcoreapp3.1\ExercicioUdemy.pdb
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\netcoreapp3.1\ExercicioUdemy.csprojAssemblyReference.cache
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\netcoreapp3.1\ExercicioUdemy.AssemblyInfoInputs.cache
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\netcoreapp3.1\ExercicioUdemy.AssemblyInfo.cs
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\netcoreapp3.1\ExercicioUdemy.csproj.CoreCompileInputs.cache
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\netcoreapp3.1\ExercicioUdemy.dll
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\netcoreapp3.1\ExercicioUdemy.pdb
+C:\Users\varley.ribeiro\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\netcoreapp3.1\ExercicioUdemy.genruntimeconfig.cache
