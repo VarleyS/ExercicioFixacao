@@ -7,7 +7,7 @@ namespace ExercicioUdemy
     {
         static void Main(string[] args)
         {
-            Ex6();
+            Uri1019();
         }
 
         public static void Ex1()
@@ -114,6 +114,22 @@ namespace ExercicioUdemy
             retangulo = A * B;
 
             Console.WriteLine("RETANGULO: " + retangulo.ToString("F3", CultureInfo.InvariantCulture));
+        }
+
+        public static void Uri1019()
+        {
+            int tempo, horas, minutos, segundos;
+
+            tempo = int.Parse(Console.ReadLine());
+
+            horas = tempo / 3600;
+
+            minutos = tempo % 3600 / 60;
+
+            segundos = tempo % 60;
+
+            Console.WriteLine(horas + ":" + minutos + ":" + segundos);
+
         }
     }
 
