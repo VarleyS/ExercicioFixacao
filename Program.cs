@@ -7,7 +7,7 @@ namespace ExercicioUdemy
     {
         static void Main(string[] args)
         {
-            Uri1019();
+            Uri1043();
         }
 
         public static void Ex1()
@@ -129,6 +129,32 @@ namespace ExercicioUdemy
             segundos = tempo % 60;
 
             Console.WriteLine(horas + ":" + minutos + ":" + segundos);
+
+        }
+
+        public static void Uri1043()
+        {
+            double A, B, C;
+
+            string[] valores = Console.ReadLine().Split(' ');
+
+            A = double.Parse(valores[0], CultureInfo.InvariantCulture);
+            B = double.Parse(valores[1], CultureInfo.InvariantCulture);
+            C = double.Parse(valores[2], CultureInfo.InvariantCulture);
+
+            double area = (A + B) * C / 2;
+            double perimetro = A + B + C;
+
+            if (A < B + C && B < A + C && C < A + B)
+            {
+
+                Console.WriteLine("Perimetro = " + perimetro.ToString("F1", CultureInfo.InvariantCulture));
+            }
+            else
+            {
+
+                Console.WriteLine("Area = " + area.ToString("F1", CultureInfo.InvariantCulture));
+            }
 
         }
     }
